@@ -1,0 +1,103 @@
+.contact{
+    padding-top: 100px;
+}
+
+.contact-content{
+    background-color: #010b13;
+    padding:50px 0;
+    font-family: 'Alumni Sans', sans-serif;
+}
+
+.contact-content{
+    color: white;
+}
+
+.contact-content h2{
+    font-size:2.5rem;
+}
+
+.contact-content p{
+    margin-bottom: 60px;
+    font-size:1.2rem;
+}
+
+.contact-info {
+    margin-left: 20px;
+}
+
+.contact-info input,.contact-info textarea{
+    border:none;
+    color: white;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    background:unset;
+    margin-top:30px;
+    letter-spacing:1px;
+    font-size: 1.1rem;
+}
+
+.contact-info input:focus,.contact-info textarea:focus{
+    outline: none;
+}
+
+.contact-info input::placeholder,.contact-info textarea::placeholder{
+    color: white;
+}
+
+.contact-info input{
+    height:40px;
+    width:100%;
+    border-bottom: 1px solid #4796d8;
+}
+
+.contact-info textarea{
+    height:200px;
+    resize:none;
+    padding-top: 15px;
+    width:100%;
+    display:block;
+    border-bottom: 1px solid #4796d8;
+    border-left: 1px solid #4796d8;
+    border-right: 1px solid #4796d8;
+}
+
+.contact-info button{
+    width: 150px;
+    height:40px;
+    font-weight: bold;
+    border: 1px solid #4796d8;
+    margin:auto;
+    display:block;
+    background:unset;
+    color: #4796d8;
+    font-size: 1.2rem;
+    position: relative;
+    
+}
+
+.contact-info button:hover{
+    background-image:-webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%) ;
+    color: #010b13;
+}
+
+
+@media (max-width:991px) {
+    .contact-info {
+        margin-left: 0;
+        margin-bottom: 30px;
+    }
+    
+}
+
+@media (max-width:567px) {
+    .contact-info textarea{
+        height:100px;
+        
+    }
+}
+
+@media (min-width:768px) and (max-width:1200px){
+    .contact-img img{
+        height: 165px;
+    }
+}

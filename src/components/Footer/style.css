@@ -1,0 +1,51 @@
+.footer{
+    background: #010b13;
+    background: linear-gradient(90deg, #06223a 0%,   #0b3152 35%, #010b13 100%);
+    width:100%;
+    padding:25px 0;
+    color:white;
+    font-family: 'Alumni Sans', sans-serif;
+    font-size: 1.3rem;
+    word-spacing:.8px;
+    letter-spacing:.8px;
+    font-weight: bold;
+}
+
+.footer-content{
+    align-items: center;
+}
+
+.footer-content p{
+    margin: 0;
+}
+
+.footer-icon{
+    justify-content:end;
+}
+
+.footer-icon a{
+    margin-right: 5px;
+    transition: all 1s;
+}
+
+.footer-icon a:hover{
+    color:#4796d8;
+    transform: scale(1.1);
+}
+
+@media (max-width:767px) {
+    .footer-content p{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .footer-icon{
+        justify-content:center;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px){
+    .footer-content p{
+        font-size:1.1rem
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "resuem_menu" : [
+        {
+            "id" : 1,
+            "icon_class" : "fa-solid fa-person-circle-exclamation",
+            "content" : "personal information",
+            "key" : "first"
+        },
+
+        {
+            "id" : 2,
+            "icon_class" : "fa-solid fa-laptop-code",
+            "content" : "Programming Skills",
+            "key" : "seconde"
+        },
+        {
+            "id" : 3,
+            "icon_class" : "fa-solid fa-chart-column",
+            "content" : "Projects",
+            "key" : "third"
+        },
+
+        {
+            "id" : 4,
+            "icon_class" : "fa-solid fa-person-chalkboard",
+            "content" : "personal skills",
+            "key" : "four"
+        }
+    ],
+    "personal_info" : [
+
+        
+            {
+                "id" : 1,
+                "icon_class" : "fa-solid fa-gift",
+                "content" : "Birthday: 24 / 02 / 1993"
+            },
+            {
+                "id" : 2,
+                "icon_class" : "fa-regular fa-calendar-days",
+                "content" : "Age: 30"
+            },
+            {
+                "id" : 3,
+                "icon_class" : "col-1 fa-solid fa-location-dot",
+                "content" : "Location:Alfirdaws Street , Al-Ghanayim , Asyut , Egypt"
+            },
+            {
+                "id" : 4,
+                "icon_class" : "col-1 fa-solid fa-gamepad",
+                "content" : "Interests: Computer Games, Reading"
+            },
+            {
+                "id" : 5,
+                "icon_class" : "fa-solid fa-user-graduate",
+                "content" : "Study: Technical Institute of Irrigation, Drainage and Surveying in Assiut University"
+            },
+            {
+                "id" : 6,
+                "icon_class" : "fa-solid fa-graduation-cap",
+                "content" : "Rating: Excellent"
+            },
+            {
+                "id" : 7,
+                "icon_class" : "fa-solid fa-phone-volume",
+                "content" : "Phone: 01117559921 - 01201967613"
+            },
+            {
+                "id" : 8,
+                "icon_class" : "fa-solid fa-envelope",
+                "content" : "Mail: Mofarrag349@gmail.com"
+            },
+            {
+                "id" : 9,
+                "icon_class" : "fa-solid fa-person-rifle",
+                "content" : "Military service: Final dismissal"
+            },
+            {
+                "id" : 10,
+                "icon_class" : "fa-solid fa-house-laptop",
+                "content" : "Freelance: Available"
+            }
+    ],
+    
+    "resuem_skills" : [
+        {
+            "id" : 1,
+            "name" : "HTML5",
+            "target" : "90%"
+        },
+
+        {
+            "id" : 2,
+            "name" : "CSS3",
+            "target" : "90%"
+        },
+
+        {
+            "id" : 3,
+            "name" : "JavaScript",
+            "target" : "80%"
+        },
+
+        {
+            "id" : 4,
+            "name" : "React FreamWork",
+            "target" : "85%"
+        },
+
+        {
+            "id" : 5,
+            "name" : "Bootstrap",
+            "target" : "95%"
+        },
+
+        {
+            "id" : 6,
+            "name" : "Sass",
+            "target" : "90%"
+        }
+    ],
+
+    "resuem_projects" : [
+        {
+            "id" : 1,
+            "name" : "Marketing Website",
+            "year" : "2021",
+            "desc" : "Technologies Used: HTML5 , CSS3 , JavaScript Pure ",
+            "link" : ""
+        },
+        {
+            "id" : 2,
+            "name" : "Company Website",
+            "year" : "2021",
+            "desc" : "Technologies Used: HTML5 , CSS3 , JavaScript Pure",
+            "link" : ""
+        },
+        {
+            "id" : 3,
+            "name" : "Resturant & Cafe Website",
+            "year" : "2021",
+            "desc" : "Technologies Used: HTML5 , CSS3 , JavaScript Pure",
+            "link" : ""
+        },
+        {
+            "id" : 4,
+            "name" : "Marketing Website",
+            "year" : "2021",
+            "desc" : "Technologies Used: HTML5 , CSS3 , JavaScript Pure , Bootstrap ",
+            "link" : ""
+        },
+        {
+            "id" : 5,
+            "name" : "Company Website",
+            "year" : "2022",
+            "desc" : "Technologies Used: HTML5 , Sass , React JavaScript , Bootstrap",
+            "link" : ""
+        },
+        {
+            "id" : 6,
+            "name" : "Ecommerce Website",
+            "year" : "2022",
+            "desc" : "Technologies Used: HTML5 , CSS3 , React JavaScript , Bootstrap",
+            "link" : ""
+        }
+    ],
+    
+    "portfolio": [
+        {
+            "id" : 1,
+            "img_source" : "/images//port1.jpeg",
+            "img_name" : "Belton",
+            "category" : "Marketing" 
+        },
+
+        {
+            "id" : 2,
+            "img_source" : "/images/port1.jpeg",
+            "img_name" : "Legel",
+            "category" : "Company"
+        },
+
+        {
+            "id" : 3,
+            "img_source" : "/images/port1.jpeg",
+            "img_name" : "Plato",
+            "category" : "Resturant & Cafe"
+        },
+
+        {
+            "id" : 4,
+            "img_source" : "/images/port1.jpeg",
+            "img_name" : "Simple",
+            "category" : "Marketing"
+
+        },
+
+        {
+            "id" : 5,
+            "img_source" : "/images/port1.jpeg",
+            "img_name" : "Co Build",
+            "category" : "Company"
+        },
+
+        {
+            "id" : 6,
+            "img_source" : "/images/port1.jpeg",
+            "img_name" : "Ecommerce",
+            "category" : "App Store"
+        }
+        
+
+    ]   
+}
