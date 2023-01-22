@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/farrag/static/css/main.0cdfadec.css",
+    "main.js": "/farrag/static/js/main.fff3181d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/farrag/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-background.jpg": "/farrag/static/media/home-background.c79cd116465eb2b7dd2c.jpg",
+    "index.html": "/farrag/index.html",
+    "main.0cdfadec.css.map": "/farrag/static/css/main.0cdfadec.css.map",
+    "main.fff3181d.js.map": "/farrag/static/js/main.fff3181d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/farrag/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cdfadec.css",
+    "static/js/main.fff3181d.js"
+  ]
+}
